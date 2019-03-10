@@ -1,0 +1,10 @@
+.nav-link {
+  color: black;
+}
+
+.genreStr {
+  font-size: 12px;
+  background-color: #48d1cc;
+  display: inline;
+  padding: 2px;
+}
